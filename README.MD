@@ -9,10 +9,12 @@ Cette série de tutoriels vous guidera au travers de Jupyter notebooks dans la d
 - seaborn
 
 Installation : ouvrir un terminal et entrer cette commande :
+
 ```pip install scikit-learn matplotlib seaborn numpy```
 
 ## Ouvrir les Jupyter notebooks : 
 Pour ouvrir les notebooks qui contiennent les tutoriels, ouvrir un terminal dans le dossier où se trouvent les notebooks et entrer cette commande :
+
 ```jupyter-notebook "nom du notebook"```
 
 
