@@ -18,6 +18,6 @@ Installation : ouvrir un terminal et entrer la commande ci-dessous
 ## Ouvrir les Jupyter notebooks : 
 Pour ouvrir les notebooks qui contiennent les tutoriels, ouvrir un terminal dans le dossier où se trouvent les notebooks et entrer la commande ci-dessous
 
-`jupyter-notebook "nom du notebook"`
+`jupyter-notebook nom_du_notebook`
 
 
