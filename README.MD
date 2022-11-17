@@ -1,4 +1,4 @@
-# Série de turoriels : les modèles dans tous leurs états
+# Série de tutoriels : les modèles dans tous leurs états
 
 Cette série de tutoriels vous guidera au travers de Jupyter notebooks dans la découverte de trois modèles de deep learning : la régression linéaire, les SVM et les k-means.
 
